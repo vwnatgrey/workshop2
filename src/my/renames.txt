@@ -1,0 +1,9 @@
+﻿3b2e5ea4-18f4-4073-9f45-de27c82b70c4-->und\3b2e5ea4-18f4-4073-9f45-de27c82b70c4
+523c6e66-58e0-42aa-904e-1c9df19878a8-->und\523c6e66-58e0-42aa-904e-1c9df19878a8
+523c6e66-58e0-42aa-904e-1c9df19878a8.0-->Form\Форма\Форма.txt
+523c6e66-58e0-42aa-904e-1c9df19878a8.0-->und\523c6e66-58e0-42aa-904e-1c9df19878a8.0
+523c6e66-58e0-42aa-904e-1c9df19878a8.0-->und\523c6e66-58e0-42aa-904e-1c9df19878a8.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
